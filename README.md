@@ -1,4 +1,4 @@
-# pdrs4all_nircam_webbinar
+# PDRs4All NIRCam Webbinar
 
 This git includes the jupyter notebook of the PDRs4All JWebbinar: Simulate NIRCam Observations of an Extended Source.
 This JWebbinar was organized by the STScI and the PDRs4All Team, on June 2022.
